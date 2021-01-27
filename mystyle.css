@@ -14,4 +14,5 @@ p {
 img {
   border:5px solid LightGrey;
   margin:25px 10px;
+  object-fit: cover;
 }
