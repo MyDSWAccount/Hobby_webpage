@@ -1,7 +1,5 @@
-img {
-  border:5px solid lightgrey;
-  margin:25px 10px;
-  size: 350px; 300px;
+head {
+  background-color: olive;
 }
 
 h1 {
@@ -9,14 +7,16 @@ h1 {
   background-color: olive;
 }
 
-head {
-  background-color: olive;
+body {
+  background-color: gold;
 }
 
 p {
   color: olive;
 }
 
-body {
-  background-color: gold;
+img {
+  border:5px solid lightgrey;
+  margin:25px 10px;
+  size: 350px; 300px;
 }
