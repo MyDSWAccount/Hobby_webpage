@@ -14,5 +14,5 @@ p {
 img {
   border:5px solid LightGrey;
   margin:25px 10px;
-  size: 300px; 225px;
+  resize: 300px; 225px;
 }
