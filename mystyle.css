@@ -1,14 +1,14 @@
 h1 {
-  color: Gold;
-  background-color: DarkGreen;
-}
-
-body {
+  color: DarkGreen;
   background-color: Gold;
 }
 
+body {
+  background-color: DarkGreen;
+}
+
 p {
-  color: DarkGreen;
+  color: Gold;
 }
 
 img {
