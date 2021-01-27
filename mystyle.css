@@ -1,14 +1,20 @@
 img {
   border:5px solid lightgrey;
   margin:25px 10px;
+  size: 350px; 300px;
 }
 
-b1 {
+h1 {
   color: gold;
   background-color: olive;
 }
 
+
+
 p {
   color: olive;
+}
+
+body {
   background-color: gold;
 }
