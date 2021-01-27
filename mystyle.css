@@ -1,21 +1,18 @@
-head {
-  background-color: olive;
-}
-
 h1 {
-  color: gold;
+  color: Gold;
+  background-color: DarkGreen;
 }
 
 body {
-  background-color: gold;
+  background-color: Gold;
 }
 
 p {
-  color: olive;
+  color: DarkGreen;
 }
 
 img {
-  border:5px solid lightgrey;
+  border:5px solid LightGrey;
   margin:25px 10px;
   size: 350px; 300px;
 }
